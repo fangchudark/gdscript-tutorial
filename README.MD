@@ -81,9 +81,9 @@ GDScript 是 Godot 引擎专用的脚本语言。
       - [迭代器模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.4.iterator-pattern.md)
       - [中介者模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.5.mediator-pattern.md)
       - [备忘录模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.6.memento-pattern.md)
-      - [状态模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.7.state-pattern.md)
+      - [观察者模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.7.observer-pattern.md)      
       - [策略模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.8.strategy-pattern.md)
-      - [观察者模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.9.observer-pattern.md)
+      - [状态模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.9.state-pattern.md)
       - [模板方法模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.10.template-method-pattern.md)
       - [访问者模式](tutorial/10.object-oriented-intro/10.7.design-patterns/10.7.3.behavioral-patterns/10.7.3.11.visitor-pattern.md)
 
