@@ -10,7 +10,7 @@ GDScript 是 Godot 引擎专用的脚本语言。
   - [预测试](tutorial/1.pre-test.md)
   - [初识代码结构](tutorial/2.introduction-to-code-structure.md)
 
-- ## [变量与基本数据类型](tutorial/3.variables-and-basic-data-types/README.MD)
+- ## [变量与基本数据类型](tutorial/3.variables-and-basic-data-types/README.md)
   - [变量](tutorial/3.variables-and-basic-data-types/3.1.variables.md)
   - [基本数据类型](tutorial/3.variables-and-basic-data-types/3.2.basic-data-types.md)
   - [类型转换](tutorial/3.variables-and-basic-data-types/3.3.type-conversion.md)
