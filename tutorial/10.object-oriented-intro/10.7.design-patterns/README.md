@@ -70,7 +70,7 @@
 
 定义对象间的交互和职责分配。
 
-* [观察者（Observer）](10.7.3.behavioral-patterns/10.7.3.9.observer-pattern.md)：一对多的依赖通知机制。
+* [观察者（Observer）](10.7.3.behavioral-patterns/10.7.3.7.observer-pattern.md)：一对多的依赖通知机制。
 
 * [策略（Strategy）](10.7.3.behavioral-patterns/10.7.3.8.strategy-pattern.md)：封装可互换的算法族。
 
@@ -80,7 +80,7 @@
 
 * [责任链（Chain of Responsibility）](10.7.3.behavioral-patterns/10.7.3.1.chain-of-responsibility.md)：请求沿处理链传递。
 
-* [状态（State）](10.7.3.behavioral-patterns/10.7.3.7.state-pattern.md)：通过对象状态改变行为。
+* [状态（State）](10.7.3.behavioral-patterns/10.7.3.9.state-pattern.md)：通过对象状态改变行为。
 
 * [迭代器（Iterator）](10.7.3.behavioral-patterns/10.7.3.4.iterator-pattern.md)：提供遍历集合的统一方式。
 
